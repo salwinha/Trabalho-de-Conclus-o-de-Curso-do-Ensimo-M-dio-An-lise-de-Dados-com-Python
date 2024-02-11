@@ -1,0 +1,2 @@
+# Trabalho-de-Conclus-o-de-Curso-do-Ensimo-M-dio-An-lise-de-Dados-com-Python
+Dados Analisados:Indicadores Sociais IBGE do Senso Demográfico 2022 Tabela1.13- Rendimento médio real do trabalho principal habitualmente recebido por mês (R$) pelas pessoas de 14 anos ou mais de idade, ocupadas nassemana de referência, por sexo, cor ou raça e grupos de idade, segundo Grandes Regiões, Unidades da Federação e Municípios dsa Catalpis
